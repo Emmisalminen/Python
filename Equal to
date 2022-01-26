@@ -1,0 +1,9 @@
+e = 10
+
+f = 8
+
+if e < f:
+
+    print (‘e is less than f’)
+
+elif e==f:
